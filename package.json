@@ -1,0 +1,17 @@
+{
+  "name": "rs_todo_list",
+  "version": "1.0.0",
+  "description": "This is simple todo List Assigment",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.17"
+  }
+}
